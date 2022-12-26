@@ -1,0 +1,2 @@
+Yolov3-Robotis
+-DCATKIN_DEVEL_PREFIX=/home/bayimaung/cicii_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bayimaung/cicii_ws/install -G Unix Makefiles
