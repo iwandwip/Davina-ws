@@ -1,2 +1,1 @@
-# cicii_ws
-cicii comel workspace
+# Andhara Workspace
